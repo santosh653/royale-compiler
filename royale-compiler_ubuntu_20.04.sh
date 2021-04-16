@@ -37,7 +37,7 @@ fi
 
 git clone ${REPO}
 
-## Build and test JTransforms
+## Build and test royal-compiler
 cd royale-compiler
 git checkout ${VERSION}
 ret=$?
